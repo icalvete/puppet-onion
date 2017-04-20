@@ -1,0 +1,2 @@
+class onion::config {
+}
