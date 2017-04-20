@@ -2,7 +2,7 @@
 
 Puppet manifest to install and configure onion (C library to create simple HTTP servers and Web Applications)
 
- [![Build Status](https://secure.travis-ci.org/icalvete/onion.png)](http://travis-ci.org/icalvete/puppet-onion)
+ [![Build Status](https://secure.travis-ci.org/icalvete/puppet-onion.png)](http://travis-ci.org/icalvete/puppet-onion)
 
 See [onion](https://github.com/davidmoreno/onion)
 
