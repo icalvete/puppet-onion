@@ -1,6 +1,6 @@
 class onion (
 
-  $onion_root = onion::params::onion_root
+  $onion_root = $onion::params::onion_root
 
 ) inherits onion::params {
 
